@@ -7,6 +7,4 @@ NOTE: As of version 1.2, Counterpart depends on and installs rsync 3.0.9. As of 
 
 To install the latest version:
 
-`brew install brew install https://raw.github.com/jedda/homebrew-counterpart/master/counterpart.rb`
-
-or for more information, see the [INSTALL](https://github.com/jedda/Counterpart/blob/master/INSTALL.md) file for Counterpart.
+See the [INSTALL](https://github.com/jedda/Counterpart/blob/master/INSTALL.md) file for Counterpart.
